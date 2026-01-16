@@ -1,0 +1,7 @@
+name: Banka
+version: 1.0
+main: banka.BankaPlugin
+api-version: 1.20
+commands:
+  banka:
+    description: Banka sistemi
